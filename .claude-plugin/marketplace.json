@@ -1,5 +1,6 @@
 {
   "name": "allchemylabs",
+  "description": "Allchemy Labs plugins for Claude Code: WCAG accessibility scanning and grounded, browser-verified fixes.",
   "owner": {
     "name": "Allchemy Labs",
     "email": "hello@allchemylabs.ai"
