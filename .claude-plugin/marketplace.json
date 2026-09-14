@@ -9,8 +9,8 @@
     {
       "name": "aether-wcag-scanner",
       "source": {
-        "source": "github",
-        "repo": "allchemylabs/aether-wcag-scanner"
+        "source": "url",
+        "url": "https://github.com/allchemylabs/aether-wcag-scanner.git"
       },
       "description": "WCAG 2.1 AA accessibility scanner with RAG-powered fixes (Playwright + axe-core, 5 MCP tools, /wcag-scan skill).",
       "version": "1.0.0",
