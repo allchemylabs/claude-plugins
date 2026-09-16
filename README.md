@@ -3,7 +3,7 @@
 Plugin marketplace for [Allchemy Labs](https://allchemylabs.ai). Add it once in Claude Code, then install plugins from it.
 
 ```
-/plugin marketplace add allchemylabs/claude-plugins
+/plugin marketplace add https://github.com/allchemylabs/claude-plugins.git
 ```
 
 ## Plugins
