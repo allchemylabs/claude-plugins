@@ -13,7 +13,7 @@
         "url": "https://github.com/allchemylabs/aether-wcag-scanner.git"
       },
       "description": "WCAG 2.1 AA accessibility scanner with RAG-powered fixes (Playwright + axe-core, 5 MCP tools, /wcag-scan skill).",
-      "version": "1.0.0",
+      "version": "1.0.7",
       "license": "MIT",
       "homepage": "https://github.com/allchemylabs/aether-wcag-scanner"
     }
